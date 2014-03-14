@@ -1,0 +1,16 @@
+{
+  "name": "angularjs-sh",
+  "version": "0.0.1",
+  "homepage": "https://github.com/whjvenyl/angularjs-sh",
+  "authors": [
+    "whjvenyl <encecity@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
